@@ -1,4 +1,4 @@
-__!! This project is now deprecated for HarmonyOS-for-PC-UI!!__
+__!! This project is now deprecated for HarmonyOS-for-PC-UI !!__
 
 # EMUI-FOR-PC-UI
 A small UI representation if Huawei were to make EMUI for PC.  
